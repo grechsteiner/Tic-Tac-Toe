@@ -1,7 +1,7 @@
 # Simple tic tac toe game with graphical interface
 # Simple AI opponent
-# Voice input for entering moves (see player_choose_spot function for supported instructions)
-# Voice input and graphical interface added to original "Scalable Tic Tac Toe.py" program during Freshman year at uwaterloo (2022)
+# Voice recognition for entering moves (see player_choose_spot function for supported instructions)
+# Voice recognition and graphical interface added to original "Scalable Tic Tac Toe.py" program during Freshman year at uwaterloo (2022)
 
 
 import random, pygame, time, os
